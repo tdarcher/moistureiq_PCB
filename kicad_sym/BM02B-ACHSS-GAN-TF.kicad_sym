@@ -1,0 +1,38 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "BM02B-ACHSS-GAN-TF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -2.5415 5.5913 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "BM02B-ACHSS-GAN-TF" (id 1) (at -2.54256 -7.62767 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "BM02B-ACHSS-GAN-TF:JST_BM02B-ACHSS-GAN-TF" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "JST" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "BM02B-ACHSS-GAN-TF_0_0"
+      (rectangle (start -2.54 -5.08) (end 2.54 5.08)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -5.08 2.54 0) (length 2.54)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 -2.54 0) (length 2.54)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
