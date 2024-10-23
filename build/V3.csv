@@ -32,6 +32,6 @@
 31;"D2";"SOT-23-5";1;"SP0504BAHTG","SP0504BAHTG";;;
 32;"L4";"L_0603_1608Metric";1;"33nH","LRC0603CJ33NGV001T";;;
 33;"Q8";"MOSFET_8EDL-T1-GE3_VIS";1;"SI1308EDL","SI1308EDL";;;
-34;"J6,J7";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
-35;"J4,J1,J2";"PinSocket_1x04_P2.54mm_Vertical";3;"Conn_01x04";;;
-36;"U17,U16,U15,U14,U13,U10,U9,U8,U7,U6,U5,U4";"92";12;"92";;;
+34;"U17,U4,U13,U15,U14,U5,U9,U7,U8,U10,U16,U6";"92";12;"92";;;
+35;"J6,J7";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
+36;"J4,J1,J2";"PinSocket_1x04_P2.54mm_Vertical";3;"Conn_01x04";;;
