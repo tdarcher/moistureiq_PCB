@@ -1,14 +1,14 @@
-### Footprint positions - created on 2024-10-23T00:33:47+0100 ###
+### Footprint positions - created on 2024-10-23T13:55:05+0100 ###
 ### Printed by KiCad version 8.0.5
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val         Package                               PosX       PosY       Rot  Side
-FID2      Fiducial    Fiducial_1mm_Mask2mm             -169.9500   157.0000  180.0000  bottom
-FID3      Fiducial    Fiducial_1mm_Mask2mm             -169.9500   104.1000  180.0000  bottom
-FID4      Fiducial    Fiducial_1mm_Mask2mm              -59.5500   159.4000    0.0000  bottom
+FID2      Fiducial    Fiducial_1mm_Mask2mm             -170.4500   159.3500  180.0000  bottom
+FID3      Fiducial    Fiducial_1mm_Mask2mm             -170.4500   101.6500  180.0000  bottom
+FID4      Fiducial    Fiducial_1mm_Mask2mm              -45.5500   101.6500    0.0000  bottom
 J1        Conn_01x04  PinSocket_1x04_P2.54mm_Vertical  -161.3800   125.0000   90.0000  bottom
 J2        Conn_01x04  PinSocket_1x04_P2.54mm_Vertical  -169.0000   136.0000  -90.0000  bottom
-J4        Conn_01x04  PinSocket_1x04_P2.54mm_Vertical   -55.3300   135.7000  -90.0000  bottom
+J4        Conn_01x04  PinSocket_1x04_P2.54mm_Vertical   -56.4500   136.0000  -90.0000  bottom
 J6        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical  -161.3800   157.0000   90.0000  bottom
 J7        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical  -163.9200   104.0000  -90.0000  bottom
 U4        92          92                                -98.0000   105.2265  -90.0000  bottom
