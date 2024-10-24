@@ -7115,34 +7115,16 @@
 		(uuid "3f8c2d2d-a55f-498c-93dc-1c5b6c7eb973")
 	)
 	(junction
-		(at 265.43 62.23)
+		(at 238.76 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "403ded09-1697-473f-b454-51c84e7448c7")
-	)
-	(junction
-		(at 236.22 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4094e73b-3b97-4f80-92cd-bb3a095e8a3e")
-	)
-	(junction
-		(at 213.36 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "420a84c3-57bf-4b6c-a1b2-59e08c69a406")
 	)
 	(junction
 		(at 97.79 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "439ee199-b3f3-42df-ab19-e85ed6ff099b")
-	)
-	(junction
-		(at 270.51 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49174fa9-854b-4e1c-b1ec-4bc27918cb1b")
 	)
 	(junction
 		(at 344.17 88.9)
@@ -7187,12 +7169,6 @@
 		(uuid "5d526e7c-e9f3-4381-8e7d-bf3a011569cc")
 	)
 	(junction
-		(at 241.3 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60653375-e094-4092-b7a9-cadfa276016a")
-	)
-	(junction
 		(at 111.76 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7209,12 +7185,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "694f3c5c-416a-42a4-ba24-4fa735a9d37f")
-	)
-	(junction
-		(at 265.43 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6caa9f5f-54dd-47fe-932d-8b47e5bbaa8b")
 	)
 	(junction
 		(at 113.03 95.25)
@@ -7307,12 +7277,6 @@
 		(uuid "a06677c1-bd3b-43cf-a0c2-159789769bdb")
 	)
 	(junction
-		(at 241.3 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a48d3ec4-5558-4df6-8f0b-0e0ff2de633f")
-	)
-	(junction
 		(at 127 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7373,12 +7337,6 @@
 		(uuid "ca68dca4-71cb-40cc-ab1e-dc54cdb14c32")
 	)
 	(junction
-		(at 236.22 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc6a9419-b079-4f31-9cf0-d46c21fb9386")
-	)
-	(junction
 		(at 431.8 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7389,12 +7347,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3f3a99a-f1c5-42be-a5df-a718b573a2df")
-	)
-	(junction
-		(at 208.28 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5b81db3-c524-46a9-9b48-2e1f8535dc50")
 	)
 	(junction
 		(at 163.83 44.45)
@@ -7587,6 +7539,10 @@
 		(uuid "f4b13825-dd02-4e02-866d-3bfe206a11b2")
 	)
 	(no_connect
+		(at 201.93 101.6)
+		(uuid "f68d1b9a-828d-4934-80c8-456f62986580")
+	)
+	(no_connect
 		(at 67.31 157.48)
 		(uuid "fad7037e-3b3e-4693-906c-d841e897a9bd")
 	)
@@ -7599,16 +7555,6 @@
 			(type default)
 		)
 		(uuid "016fa5da-a170-4d35-92c5-001d166a2110")
-	)
-	(wire
-		(pts
-			(xy 236.22 30.48) (xy 241.3 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0314f7d7-f0e5-4610-b047-2a87241ff06b")
 	)
 	(wire
 		(pts
@@ -7899,16 +7845,6 @@
 			(type default)
 		)
 		(uuid "2e8ca077-490f-4429-8273-59c7b2a457cc")
-	)
-	(wire
-		(pts
-			(xy 201.93 99.06) (xy 201.93 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f123699-b48b-44ce-9b6a-9472b69814f6")
 	)
 	(wire
 		(pts
@@ -8222,7 +8158,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 62.23) (xy 270.51 62.23)
+			(xy 238.76 40.64) (xy 243.84 40.64)
 		)
 		(stroke
 			(width 0)
@@ -8269,16 +8205,6 @@
 			(type default)
 		)
 		(uuid "664e5c66-8608-46f1-bf71-c9ce988031d9")
-	)
-	(wire
-		(pts
-			(xy 208.28 30.48) (xy 213.36 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6700786c-499c-443d-b4a2-36c31e344560")
 	)
 	(wire
 		(pts
@@ -8419,16 +8345,6 @@
 			(type default)
 		)
 		(uuid "88602186-0fbb-49ac-98d1-9229a657059c")
-	)
-	(wire
-		(pts
-			(xy 265.43 30.48) (xy 270.51 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89005739-a12f-4a0c-b582-eda6429a66e4")
 	)
 	(wire
 		(pts
@@ -8679,16 +8595,6 @@
 			(type default)
 		)
 		(uuid "b352b815-94dd-4fd6-afef-d61902b1e0bb")
-	)
-	(wire
-		(pts
-			(xy 236.22 62.23) (xy 241.3 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3dfc0e0-7a53-4a55-828a-1142f0188244")
 	)
 	(wire
 		(pts
@@ -9822,22 +9728,22 @@
 	)
 	(global_label "Vin2"
 		(shape input)
-		(at 201.93 101.6 270)
+		(at 201.93 99.06 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "6b9173ba-c9c4-4714-a2f6-1fd2712832a2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 108.6371 90)
+			(at 201.93 92.0229 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10636,7 +10542,7 @@
 	)
 	(global_label "Vin3"
 		(shape input)
-		(at 231.14 54.61 180)
+		(at 203.2 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10646,7 +10552,7 @@
 		)
 		(uuid "e4680a51-d755-437c-8f0b-e93a8b955211")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.1029 54.61 0)
+			(at 196.1629 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10768,7 +10674,7 @@
 	)
 	(global_label "MCU_3V3"
 		(shape input)
-		(at 270.51 54.61 0)
+		(at 243.84 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10778,7 +10684,7 @@
 		)
 		(uuid "f3350fb7-1856-43fe-b62c-da7bd8a9eab0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 282.0223 54.61 0)
+			(at 255.3523 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10881,7 +10787,7 @@
 		(at 154.94 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11337,7 +11243,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 241.3 54.61 270)
+		(at 210.82 33.02 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11347,7 +11253,7 @@
 		(fields_autoplaced yes)
 		(uuid "06967452-94d6-4805-b8b9-0d1b008a9a22")
 		(property "Reference" "#PWR045"
-			(at 237.49 54.61 0)
+			(at 207.01 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11356,7 +11262,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 245.11 54.61 90)
+			(at 214.63 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11365,7 +11271,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 54.61 0)
+			(at 210.82 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11374,7 +11280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 54.61 0)
+			(at 210.82 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11383,7 +11289,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 54.61 0)
+			(at 210.82 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11766,7 +11672,7 @@
 		(at 133.35 185.42 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0d5bfab5-feef-46d9-9c90-452a8e8e35eb")
@@ -11831,87 +11737,11 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:FDN340P")
-		(at 236.22 57.15 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "11ba2bde-bbb5-4077-af91-e02de31305be")
-		(property "Reference" "Q7"
-			(at 237.49 50.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FDN304P\",\"FDN304P"
-			(at 237.49 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 238.125 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn304p-d.pdf"
-			(at 236.22 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d596966-9bc2-4391-91ae-3ba091ca6b37")
-		)
-		(pin "2"
-			(uuid "7acf68cd-43ea-41b6-b45d-9c5fbf3dd345")
-		)
-		(pin "3"
-			(uuid "0af81769-5aeb-406e-a36d-1e871a421ae4")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "Q7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "92:92")
 		(at 227.33 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12184,7 +12014,7 @@
 	)
 	(symbol
 		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
-		(at 265.43 66.04 90)
+		(at 238.76 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12193,7 +12023,7 @@
 		(fields_autoplaced yes)
 		(uuid "17f46d78-b27f-4c48-a7c5-b947c3802409")
 		(property "Reference" "R11"
-			(at 266.7 64.77 90)
+			(at 240.03 43.18 90)
 			(effects
 				(font
 					(size 1.143 1.143)
@@ -12202,7 +12032,7 @@
 			)
 		)
 		(property "Value" "100K\",\"RC0603JR-07100KL"
-			(at 266.7 67.31 90)
+			(at 240.03 45.72 90)
 			(effects
 				(font
 					(size 1.143 1.143)
@@ -12212,7 +12042,7 @@
 			)
 		)
 		(property "Footprint" "kicad_mod:R0603"
-			(at 265.43 66.04 0)
+			(at 238.76 44.45 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12221,7 +12051,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 66.04 0)
+			(at 238.76 44.45 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12230,7 +12060,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 66.04 0)
+			(at 238.76 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12239,7 +12069,7 @@
 			)
 		)
 		(property "MPN" "RC0603JR-0710KL"
-			(at 261.62 65.278 0)
+			(at 234.95 43.688 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -12248,7 +12078,7 @@
 			)
 		)
 		(property "SKU" "301010293"
-			(at 261.62 65.278 0)
+			(at 234.95 43.688 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -12343,7 +12173,7 @@
 		(at 101.6 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12785,82 +12615,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:FDN340P")
-		(at 208.28 25.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "20e7421e-429e-49c1-bfe8-5fcf9b9dad58")
-		(property "Reference" "Q1"
-			(at 209.55 19.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FDN304P\",\"FDN304P"
-			(at 209.55 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 210.185 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn304p-d.pdf"
-			(at 208.28 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 208.28 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40406858-8b2b-4f78-b962-e9e0c59e266d")
-		)
-		(pin "2"
-			(uuid "5be24561-6b6d-4d2d-838a-43d1cf068254")
-		)
-		(pin "3"
-			(uuid "986c0ab2-f638-4d1f-aad6-bf3323d7fd52")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "OPL_Capacitor:CERAMIC-1UF-25V-10%-X7R_0603_")
 		(at 40.64 138.43 180)
 		(unit 1)
@@ -12952,7 +12706,7 @@
 		(at 62.23 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13110,7 +12864,7 @@
 		(at 123.19 185.42 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13314,7 +13068,7 @@
 		(at 154.94 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13784,7 +13538,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 213.36 22.86 270)
+		(at 210.82 22.86 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13794,7 +13548,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ce86ca5-7a6a-4ef6-ad01-5a94b84d7707")
 		(property "Reference" "#PWR01"
-			(at 209.55 22.86 0)
+			(at 207.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13803,7 +13557,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 217.17 22.86 90)
+			(at 214.63 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13812,7 +13566,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 22.86 0)
+			(at 210.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13821,7 +13575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 22.86 0)
+			(at 210.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13830,7 +13584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 22.86 0)
+			(at 210.82 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13921,7 +13675,7 @@
 		(at 201.93 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14109,7 +13863,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 69.85 0)
+		(at 238.76 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14118,7 +13872,7 @@
 		(fields_autoplaced yes)
 		(uuid "32a333af-690d-4b10-99e4-e80c1291f21d")
 		(property "Reference" "#PWR034"
-			(at 265.43 76.2 0)
+			(at 238.76 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14127,7 +13881,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 265.43 74.93 0)
+			(at 238.76 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14135,7 +13889,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 69.85 0)
+			(at 238.76 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14144,7 +13898,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 69.85 0)
+			(at 238.76 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14153,7 +13907,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 69.85 0)
+			(at 238.76 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14175,7 +13929,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 213.36 26.67 270)
+		(at 207.01 22.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14184,16 +13938,15 @@
 		(fields_autoplaced yes)
 		(uuid "339754e9-05ba-4a4d-9a29-26338d3b6992")
 		(property "Reference" "D1"
-			(at 215.9 26.6699 90)
+			(at 207.01 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "NSR0520V2\",\"NSR0520V2"
-			(at 217.17 26.67 0)
+			(at 207.01 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14202,7 +13955,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 208.915 26.67 0)
+			(at 207.01 18.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14211,7 +13964,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 26.67 0)
+			(at 207.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14220,7 +13973,7 @@
 			)
 		)
 		(property "Description" "Diode, SOD-523"
-			(at 213.36 26.67 0)
+			(at 207.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14229,7 +13982,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 213.36 26.67 0)
+			(at 207.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14238,7 +13991,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 213.36 26.67 0)
+			(at 207.01 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14266,7 +14019,7 @@
 		(at 177.8 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14523,163 +14276,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 236.22 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3f855c79-ca50-4161-9e6c-a5e12ace72ef")
-		(property "Reference" "#PWR029"
-			(at 236.22 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 236.22 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "600caf75-1319-4dff-b8a2-3acbce9825d9")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
-		(at 208.28 34.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "43e5c512-908d-42c1-8c00-6ad4b4d1d04f")
-		(property "Reference" "R7"
-			(at 209.55 33.02 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100K\",\"RC0603JR-07100KL"
-			(at 209.55 35.56 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kicad_mod:R0603"
-			(at 208.28 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 208.28 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0603JR-0710KL"
-			(at 204.47 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "SKU" "301010293"
-			(at 204.47 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f62975d9-2991-4884-9680-d5a13eda3e2d")
-		)
-		(pin "2"
-			(uuid "66921fc4-894e-4581-9c6d-c33fbe7f5686")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VDD")
-		(at 260.35 54.61 90)
+		(at 233.68 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14688,7 +14286,7 @@
 		(fields_autoplaced yes)
 		(uuid "43f3cfb9-f732-4f85-938c-0e170854a12f")
 		(property "Reference" "#PWR033"
-			(at 264.16 54.61 0)
+			(at 237.49 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14697,7 +14295,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 256.54 54.61 90)
+			(at 229.87 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14706,7 +14304,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 54.61 0)
+			(at 233.68 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14715,7 +14313,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 54.61 0)
+			(at 233.68 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14724,7 +14322,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 260.35 54.61 0)
+			(at 233.68 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14745,100 +14343,11 @@
 		)
 	)
 	(symbol
-		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
-		(at 236.22 34.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45b8f1bd-a654-496a-b50f-abd855d752dc")
-		(property "Reference" "R10"
-			(at 237.49 33.02 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100K\",\"RC0603JR-07100KL"
-			(at 237.49 35.56 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kicad_mod:R0603"
-			(at 236.22 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0603JR-0710KL"
-			(at 232.41 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "SKU" "301010293"
-			(at 232.41 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1894b23a-72ba-4bc9-9059-4dfde608948b")
-		)
-		(pin "2"
-			(uuid "4533e806-ba8a-4e02-ba4c-4e3f0d8e7a6f")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "92:92")
 		(at 201.93 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15089,7 +14598,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:FDN340P")
-		(at 265.43 57.15 90)
+		(at 238.76 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15097,7 +14606,7 @@
 		(dnp no)
 		(uuid "4ad8a7d4-102c-44ff-9a91-cac137ae40be")
 		(property "Reference" "Q6"
-			(at 266.7 50.8 90)
+			(at 240.03 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15106,7 +14615,7 @@
 			)
 		)
 		(property "Value" "FDN304P\",\"FDN304P"
-			(at 266.7 49.53 0)
+			(at 240.03 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15116,7 +14625,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 267.335 52.07 0)
+			(at 240.665 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15127,7 +14636,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn304p-d.pdf"
-			(at 265.43 57.15 0)
+			(at 238.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15137,7 +14646,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 57.15 0)
+			(at 238.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15237,7 +14746,7 @@
 		(at 29.21 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15711,7 +15220,7 @@
 		(at 227.33 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15833,7 +15342,7 @@
 		(at 62.23 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16157,7 +15666,7 @@
 		(at 29.21 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17276,7 +16785,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 270.51 58.42 270)
+		(at 243.84 36.83 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17285,7 +16794,7 @@
 		(fields_autoplaced yes)
 		(uuid "81ed0f19-964e-4aa0-9cdd-08014c9e671c")
 		(property "Reference" "D6"
-			(at 273.05 58.4199 90)
+			(at 246.38 36.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17294,7 +16803,7 @@
 			)
 		)
 		(property "Value" "NSR0520V2\",\"NSR0520V2"
-			(at 274.32 58.42 0)
+			(at 247.65 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17303,7 +16812,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 266.065 58.42 0)
+			(at 239.395 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17312,7 +16821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 58.42 0)
+			(at 243.84 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17321,7 +16830,7 @@
 			)
 		)
 		(property "Description" "Diode, SOD-523"
-			(at 270.51 58.42 0)
+			(at 243.84 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17330,7 +16839,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 270.51 58.42 0)
+			(at 243.84 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17339,7 +16848,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 58.42 0)
+			(at 243.84 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17513,7 +17022,7 @@
 		(at 177.8 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17635,7 +17144,7 @@
 		(at 227.33 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17841,7 +17350,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 241.3 22.86 270)
+		(at 238.76 22.86 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17851,7 +17360,7 @@
 		(fields_autoplaced yes)
 		(uuid "89e2c82e-4289-4479-afdb-35e22b6a9f37")
 		(property "Reference" "#PWR026"
-			(at 237.49 22.86 0)
+			(at 234.95 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17860,7 +17369,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 245.11 22.86 90)
+			(at 242.57 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17869,7 +17378,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 22.86 0)
+			(at 238.76 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17878,7 +17387,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 22.86 0)
+			(at 238.76 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17887,7 +17396,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 22.86 0)
+			(at 238.76 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17902,72 +17411,6 @@
 			(project "Toms air quality"
 				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 208.28 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b3450c0-b424-4cc8-9db6-9dbe31892ee8")
-		(property "Reference" "#PWR02"
-			(at 208.28 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 208.28 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 208.28 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 208.28 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7b7d5042-bc57-41f5-bb73-b6b7264544d8")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -18694,95 +18137,6 @@
 		)
 	)
 	(symbol
-		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
-		(at 265.43 34.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ca4c5f6-3592-45bd-beab-fa7a21b0d2e0")
-		(property "Reference" "R6"
-			(at 266.7 33.02 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100K\",\"RC0603JR-07100KL"
-			(at 266.7 35.56 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kicad_mod:R0603"
-			(at 265.43 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 34.29 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 265.43 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0603JR-0710KL"
-			(at 261.62 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "SKU" "301010293"
-			(at 261.62 33.528 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2d7acde7-9e4b-4dfa-bb0a-8128638612af")
-		)
-		(pin "2"
-			(uuid "643531fd-d418-406d-b5ad-2c9a8050795e")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 57.15 184.15 270)
 		(unit 1)
@@ -18920,7 +18274,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 241.3 58.42 270)
+		(at 207.01 33.02 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18929,16 +18283,15 @@
 		(fields_autoplaced yes)
 		(uuid "9f70b27d-74a4-4e87-9c2b-4eaae5956a1c")
 		(property "Reference" "D5"
-			(at 243.84 58.4199 90)
+			(at 207.01 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "NSR0520V2\",\"NSR0520V2"
-			(at 245.11 58.42 0)
+			(at 207.01 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18947,7 +18300,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 236.855 58.42 0)
+			(at 207.01 28.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18956,7 +18309,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 58.42 0)
+			(at 207.01 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18965,7 +18318,7 @@
 			)
 		)
 		(property "Description" "Diode, SOD-523"
-			(at 241.3 58.42 0)
+			(at 207.01 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18974,7 +18327,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 241.3 58.42 0)
+			(at 207.01 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18983,7 +18336,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 241.3 58.42 0)
+			(at 207.01 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19231,7 +18584,7 @@
 		(at 154.94 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19511,72 +18864,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 265.43 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aefb4015-f884-4730-a8ed-fd17293308c3")
-		(property "Reference" "#PWR040"
-			(at 265.43 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 265.43 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 265.43 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "41221be1-fabc-4a45-b467-ecd3b4305cea")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
 		(at 45.72 29.21 180)
 		(unit 1)
@@ -19752,7 +19039,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 241.3 26.67 270)
+		(at 234.95 22.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19761,16 +19048,15 @@
 		(fields_autoplaced yes)
 		(uuid "b26ac5b1-d062-4217-8bb6-429765c3e909")
 		(property "Reference" "D3"
-			(at 243.84 26.6699 90)
+			(at 234.95 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "NSR0520V2\",\"NSR0520V2"
-			(at 245.11 26.67 0)
+			(at 234.95 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19779,7 +19065,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 236.855 26.67 0)
+			(at 234.95 18.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19788,7 +19074,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 26.67 0)
+			(at 234.95 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19797,7 +19083,7 @@
 			)
 		)
 		(property "Description" "Diode, SOD-523"
-			(at 241.3 26.67 0)
+			(at 234.95 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19806,7 +19092,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 241.3 26.67 0)
+			(at 234.95 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19815,7 +19101,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 241.3 26.67 0)
+			(at 234.95 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20139,7 +19425,7 @@
 		(at 177.8 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21068,72 +20354,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d0372e7b-dbeb-425f-90b2-0acd1a49f83b")
-		(property "Reference" "#PWR025"
-			(at 236.22 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 236.22 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa345133-10ac-4468-82ae-1c4d9261f50b")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 24.13 171.45 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21397,171 +20617,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:FDN340P")
-		(at 236.22 25.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dc7a8a61-c351-4fbe-bdce-171ac936eed9")
-		(property "Reference" "Q5"
-			(at 237.49 19.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FDN304P\",\"FDN304P"
-			(at 237.49 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 238.125 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn304p-d.pdf"
-			(at 236.22 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a2cbb798-2dba-43b7-bfbb-d2cc23527dab")
-		)
-		(pin "2"
-			(uuid "044cfc8c-0717-42ae-9731-965e40a26f8a")
-		)
-		(pin "3"
-			(uuid "8d3abaab-eee4-476e-8cb5-326c26258034")
-		)
-		(instances
-			(project "Toms air quality"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "Q5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_")
-		(at 236.22 66.04 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de204d63-6676-4bca-83b9-5b042024565e")
-		(property "Reference" "R8"
-			(at 237.49 64.77 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100K\",\"RC0603JR-07100KL"
-			(at 237.49 67.31 90)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kicad_mod:R0603"
-			(at 236.22 66.04 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 66.04 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 236.22 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0603JR-0710KL"
-			(at 232.41 65.278 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "SKU" "301010293"
-			(at 232.41 65.278 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74b93d28-3827-4cab-b4fd-923449f61c11")
-		)
-		(pin "2"
-			(uuid "03015cc7-107e-49ce-ae70-c6045ed94f28")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Power_Protection:SP0504BAHT")
 		(at 71.12 35.56 0)
 		(unit 1)
@@ -21713,7 +20768,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 270.51 22.86 270)
+		(at 267.97 22.86 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21723,7 +20778,7 @@
 		(fields_autoplaced yes)
 		(uuid "dfba2417-e6d4-476d-8f9b-05d34c70b61b")
 		(property "Reference" "#PWR043"
-			(at 266.7 22.86 0)
+			(at 264.16 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21732,7 +20787,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 274.32 22.86 90)
+			(at 271.78 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21741,7 +20796,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 270.51 22.86 0)
+			(at 267.97 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21750,7 +20805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 22.86 0)
+			(at 267.97 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21759,7 +20814,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 22.86 0)
+			(at 267.97 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22284,82 +21339,6 @@
 			(project "Toms air quality"
 				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
 					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:FDN340P")
-		(at 265.43 25.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eb5d5f92-f51b-4527-803e-d5575ceb874b")
-		(property "Reference" "Q2"
-			(at 266.7 19.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FDN304P\",\"FDN304P"
-			(at 266.7 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 267.335 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fdn304p-d.pdf"
-			(at 265.43 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 265.43 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa6c58c6-bcea-4064-a79d-9dd2432e487e")
-		)
-		(pin "2"
-			(uuid "71bccec1-1f16-4e89-a846-760f31456208")
-		)
-		(pin "3"
-			(uuid "a5eb5dea-de1d-44e2-af3c-8800c3160a0d")
-		)
-		(instances
-			(project "V3"
-				(path "/bb9ed05e-0f43-4915-900f-41a4b6c0b434"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -22902,7 +21881,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 270.51 26.67 270)
+		(at 264.16 22.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22911,16 +21890,15 @@
 		(fields_autoplaced yes)
 		(uuid "f5e14473-d6a6-4a00-9b22-f30ff1ff1b41")
 		(property "Reference" "D4"
-			(at 273.05 26.6699 90)
+			(at 264.16 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "NSR0520V2\",\"NSR0520V2"
-			(at 274.32 26.67 0)
+			(at 264.16 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22929,7 +21907,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 266.065 26.67 0)
+			(at 264.16 18.415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22938,7 +21916,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 26.67 0)
+			(at 264.16 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22947,7 +21925,7 @@
 			)
 		)
 		(property "Description" "Diode, SOD-523"
-			(at 270.51 26.67 0)
+			(at 264.16 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22956,7 +21934,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 270.51 26.67 0)
+			(at 264.16 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22965,7 +21943,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 270.51 26.67 0)
+			(at 264.16 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23193,7 +22171,7 @@
 		(at 201.93 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
