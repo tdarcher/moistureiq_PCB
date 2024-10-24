@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-10-24T13:21:06+0100 ###
+### Footprint positions - created on 2024-10-24T16:44:03+0100 ###
 ### Printed by KiCad version 8.0.5
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -41,6 +41,7 @@ D6        NSR0520V2","NSR0520V2                        D_SOD-523                
 D7        MBR0530                                      D_SOD-123                       -136.1000   127.4000  180.0000  top
 D8        MBR0530                                      D_SOD-123                       -136.1000   124.9000  180.0000  top
 D9        MBR0530                                      D_SOD-123                       -136.1000   129.9000  180.0000  top
+D10       NSR0520V2","NSR0520V2                        D_SOD-523                       -112.5000   123.3500  -90.0000  top
 FID1      Fiducial                                     Fiducial_1mm_Mask2mm            -170.4500   159.3500    0.0000  top
 FID5      Fiducial                                     Fiducial_1mm_Mask2mm             -45.5500   101.6500  180.0000  top
 FID6      Fiducial                                     Fiducial_1mm_Mask2mm            -170.4500   101.6500    0.0000  top
